@@ -1,0 +1,27 @@
+{
+  "name": "s3upload",
+  "version": "0.0.1",
+  "authors": [
+    "Ibrahim Rashid <ibrahim12@gmail.com>"
+  ],
+  "description": "\"Upload to S3 From Browser\"",
+  "main": "s3upload.js",
+  "keywords": [
+    "s3upload",
+    "direct",
+    "s3",
+    "upload",
+    "s3",
+    "multipart",
+    "upload"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ibrahim12/s3upload",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
